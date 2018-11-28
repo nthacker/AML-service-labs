@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "01-model-training", "01-model-training\01-model-training.pyproj", "{3DD87218-537C-45FB-B7DB-9735F5694C83}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "02-model-management", "02-model-management\02-model-management.pyproj", "{894D287B-11C2-4F93-B751-3A18FACB6F62}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "03-model-deployment", "03-model-deployment\03-model-deployment.pyproj", "{87FA8233-9906-4555-8BE8-D26DE841FBD1}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "04-automl", "04-automl\04-automl.pyproj", "{692E2964-B5B8-4F23-8C78-C1BDF024108C}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "05-deep-learning", "05-deep-learning\05-deep-learning.pyproj", "{549C3865-479B-454A-9EA9-1A11500E1D7D}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "06-deploy-to-iot-edge", "06-deploy-to-iot-edge\06-deploy-to-iot-edge.pyproj", "{4CEC97C0-1883-4240-B2E8-6AB72D1D6363}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3DD87218-537C-45FB-B7DB-9735F5694C83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DD87218-537C-45FB-B7DB-9735F5694C83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{894D287B-11C2-4F93-B751-3A18FACB6F62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{894D287B-11C2-4F93-B751-3A18FACB6F62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87FA8233-9906-4555-8BE8-D26DE841FBD1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87FA8233-9906-4555-8BE8-D26DE841FBD1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{692E2964-B5B8-4F23-8C78-C1BDF024108C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{692E2964-B5B8-4F23-8C78-C1BDF024108C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{549C3865-479B-454A-9EA9-1A11500E1D7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{549C3865-479B-454A-9EA9-1A11500E1D7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CEC97C0-1883-4240-B2E8-6AB72D1D6363}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CEC97C0-1883-4240-B2E8-6AB72D1D6363}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {516C5110-A7CA-477D-87AF-F2EAB057F5C9}
+	EndGlobalSection
+EndGlobal
