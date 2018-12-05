@@ -1,4 +1,4 @@
-# Azure Machine Learning Service Labs
+# Azure Machine Learning service Labs
 
 This repo contains labs that show how to use the Azure Machine Learning service with the Python SDK. These labs will teach you how to perform the training locally within a Deep Learning Virtual Machine (DLVM) as well scale out model training by using Azure Batch AI workspaces or Azure Databricks. Each lab provides instructions for you to peform them using the environment of your choice- Visual Studio (with the Visual Studio Tools for AI), PyCharm or Azure Databricks.
 
